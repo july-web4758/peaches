@@ -16,3 +16,4 @@ Fifteen. Some people say most people are normal, it's just the choices they make
 sixteen
 Seventeen
 Eighteen - that's a good number
+Nineteen, almost there
