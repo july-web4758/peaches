@@ -5,3 +5,4 @@ Fourth submission, guys! I just used Gemini to generate a super gentle guy. I re
 Fifth submission. Maybe I should learn some English. Even though I've been trying, well, at least I've always wanted to
 Sixth submission - no way, I'm a bit tired. Let me just slap something out
 The seventh submission - I'm really curious what normal people would do at this point
+ Eighth submission. I want to develop my own mini-game. First off, I need a GeminiPro or ClaudeMax. Does anyone have one
