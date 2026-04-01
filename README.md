@@ -25,3 +25,4 @@ Twenty-three, 23, in order
 Twenty-five, last five! Go for it!
 Twenty-six: I hope my kung fu
 Twenty-seven, I can do it
+Twenty-eight, almost there. Just two more
